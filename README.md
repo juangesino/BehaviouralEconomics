@@ -29,7 +29,7 @@ These files require Jupyter and Python 3.7, but the raw data can be analysed usi
 
 ## License
 
-Created by [Juan Gesino](https://github.com/juangesino) under GNU General Public License v3.0 license.
+Created under GNU General Public License v3.0 license.
 
 See the [LICENSE](https://github.com/juangesino/BehaviouralEconomics/blob/master/LICENSE) file for details.
 
